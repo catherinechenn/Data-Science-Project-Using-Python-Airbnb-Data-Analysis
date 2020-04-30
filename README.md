@@ -1,9 +1,9 @@
 # Data-Science-Project-Using-Python-Airbnb-Data-Analysis
-1. Data Description
-1.1 Data Source
+## 1. Data Description
+### 1.1 Data Source
         I downloaded the most recent datasets “reviews.csv”, “listing.csv”, and “calendar.csv” containing reviews, listings, and time information in Los Angeles, California from http://insideairbnb.com/get-the-data.html. The data was collected on September 14, 2019, which has already been cleansed and aggregated where appropriate to facilitate this project. 
 
-1.2 Dimensions
+## 1.2 Dimensions
         There are three datasets, including “reviews.csv”, “listing.csv”, and “calendar.csv”. 
         The “reviews.csv” is the detailed review data for listings in Los Angeles. It has 1,509,564 rows and 6 columns. Its attributes include “listing_id”, “id”, “date”, “reviewer_id”, “reviewer_name”, and “comments”. 
         The “listings.csv” is the detailed listings data for Los Angeles. It has 44,986 rows and 106 columns. Its attributes include “id”, “listing_url”, “scrape_id”, “last_scraped”, “name”, “summary”, “space”, “description”, “experiences_offered”, “neighborhood_overview”, “reviews_per_month”, etc. 
