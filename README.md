@@ -1,6 +1,6 @@
 # Data-Science-Project-Using-Python-Airbnb-Data-Analysis
-# 1 Data Description
-# 1.1 Data Source
+## 1 Data Description
+### 1.1 Data Source
 I downloaded the most recent datasets “reviews.csv”, “listing.csv”, and “calendar.csv” containing reviews, listings, and time information in Los Angeles, California from http://insideairbnb.com/get-the-data.html. The data was collected on September 14, 2019, which has already been cleansed and aggregated where appropriate to facilitate this project. 
 
 # 1.2 Dimensions
